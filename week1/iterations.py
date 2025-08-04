@@ -1,6 +1,7 @@
 # for loop
-for i in range(1, 6):
-    print("Number:", i)
+for value in range(1, 6):
+    print("Number:")
+    print(value)
 
 # while loop
 i = 1

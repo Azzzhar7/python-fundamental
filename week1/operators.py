@@ -4,6 +4,8 @@ y = 3
 # Arithmetic
 print(x + y, x - y, x * y, x / y, x % y, x ** y)
 
+print(x + y)
+
 # Comparison
 print(x > y, x == y, x != y)
 
