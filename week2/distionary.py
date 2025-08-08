@@ -2,7 +2,8 @@
 student = {
     "name": "Ali",
     "age": 20,
-    "marks": 85
+    "marks": 85.5,
+    "enrolled": True
 }
 
 # Access values
