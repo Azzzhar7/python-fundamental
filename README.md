@@ -1,4 +1,4 @@
-# Scenario-Based Course Tasks: Python Fundamentals for AI in Agriculture
+# Python Fundamentals - Summer Short Course
 
 ## Development Environment Setup (Windows | Linux | Google Colab)
 
