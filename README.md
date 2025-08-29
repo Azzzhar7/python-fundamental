@@ -1,4 +1,5 @@
 # Python Fundamentals - Summer Short Course
+This short course is designed to introduce learners to the core concepts of Python programming with a hands-on, scenario-based approach. Covering essential topics such as variables, data types, control flow, functions, data structures, file handling, and visualization, the course gradually builds from beginner logic to applied problem-solving. Through weekly mini-projects and a comprehensive case study in agriculture, participants gain practical experience in writing, analyzing, and presenting Python code. The course is ideal for students, researchers, and professionals looking to strengthen their programming foundation in a short, focused timeframe. 
 
 ## Development Environment Setup (Windows | Linux | Google Colab)
 
